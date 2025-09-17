@@ -1,18 +1,7 @@
-# Auto Plant Irrigator
+# Automatic Plant Irrigation
 
-An automatic plant irrigation system powered by ESP32. Detects soil moisture and waters your plant only when needed. Monitor and control the system via your mobile phone!
+This project utilizes the ESP32 microcontroller in conjunction with a capacitive soil moisture sensor to create an efficient automatic plant irrigation system. The system also features a gravity-fed 3D-printable drop-by-drop pump to ensure that plants receive the right amount of water based on their moisture needs.
 
-## Features
-- Real-time soil moisture detection
-- Automatic pump activation
-- Mobile phone monitoring & control
-- Easy hardware setup (ESP32-based)
-
-## Hardware
-- ESP32 microcontroller
-- Soil moisture sensor
-- Water pump
-- Power supply
-
-## Getting Started
-In
+## Project Structure
+- **src/**: This folder will contain all the source code related to the project.
+- **docs/**: This folder will hold the documentation related to the setup and usage of the project.
